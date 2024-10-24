@@ -6,11 +6,17 @@ A very simple Phaser 3 game that was built using the Phaser Editor v4 project te
 
 ## Demo
 
-You can find a playable version of the game here: <a href="https://scottwestover.dev/games/halloween-memory-match/index.html" target="_blank">Phaser 3 - Halloween Memory Match</a>.
-
-![Title](/docs/screenshot1.png?raw=true 'Title')
+You can find a playable version of the game here: <a href="https://scottwestover.dev/games/hungry-dinosaur/index.html" target="_blank">Hungry Dinosaur</a>.
 
 ![Gameplay](/docs/example.gif?raw=true 'Gameplay')
+
+## Credit
+
+The assets used in this project can be found here:
+
+* <a href="https://caz-creates-games.itch.io/burger" target="_blank">https://caz-creates-games.itch.io/burger</a>
+* <a href="https://www.kenney.nl/assets/pixel-platformer-blocks" target="_blank">https://www.kenney.nl/assets/pixel-platformer-blocks</a>
+
 
 ## Configuration
 
