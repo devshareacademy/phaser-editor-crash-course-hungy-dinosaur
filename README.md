@@ -1,8 +1,9 @@
 # Phaser Editor v4 - Hungry Dinosaur
 
-A very simple Phaser 3 game that was built using the Phaser Editor v4 project template as part of the Phaser Editor Crash Course tutorial here on YouTube <a href="https://github.com/devshareacademy/phaser-editor-crash-course-hungy-dinosaur" target="_blank">Phaser Editor v4 Beginner's Guide: Make Games Fast with Phaser 3!</a>.
+A very simple Phaser 3 game that was built using the Phaser Editor v4 project template as part of the Phaser Editor Crash Course tutorial here on YouTube <a href="https://youtu.be/upx7DST2blA?si=548osJz9rxV6edRq" target="_blank">Phaser Editor v4 Beginner's Guide: Make Games Fast with Phaser 3!</a>.
 
-[<img src="https://i.ytimg.com/vi/-UguJGaJDB0/hqdefault.jpg">](https://youtu.be/-UguJGaJDB0 "Phaser 3 Tutorial: How to load assets via JSON Pack")
+
+[<img src="https://i.ytimg.com/vi/upx7DST2blA/hqdefault.jpg">](https://youtu.be/upx7DST2blA "Phaser Editor v4 Beginner's Guide: Make Games Fast with Phaser 3!")
 
 ## Demo
 
